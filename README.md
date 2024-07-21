@@ -1,10 +1,10 @@
 # Heart-Failure-Prediction-Dashboard-Report
-A detailed Heart Failure Prediction Report brought to life through Tableau Visualisation, telling a story from the data.
+A detailed heart failure prediction report was brought to life through Tableau Visualisation, telling a story from the data.
 
 ![banner-hf-awareness-month-2023_02](https://github.com/user-attachments/assets/63cb9c01-6ada-4a29-b1ec-aa903ff71819)
 
 ### Overview of the Data
-The dataset consists of health and demographic metrics for individuals with heart failure, including age, presence of anaemia, levels of creatinine phosphokinase, diabetes status, ejection fraction, high blood pressure, platelet count, serum creatinine, serum sodium, sex, smoking status, and the time of observation. The key outcome variable is DEATH_EVENT, which denotes whether an individual survived or died. The objective of this analysis is to uncover significant patterns and relationships between these factors and survival rates.
+The dataset consists of health and demographic metrics for individuals with heart failure, including age, presence of anaemia, levels of creatinine phosphokinase, diabetes status, ejection fraction, high blood pressure, platelet count, serum creatinine, serum sodium, sex, smoking status, and the time of observation. The key outcome variable is DEATH_EVENT, which denotes whether an individual survived or died. This analysis aims to uncover significant patterns and relationships between these factors and survival rates.
 
 ### Methodology
 - Data Source: Heart failure prediction dataset.
@@ -17,7 +17,7 @@ The dataset consists of health and demographic metrics for individuals with hear
 - Box Plot: To visualize the spread and outliers in numerical data.
 - Calculated Fields: Used to derive survival rates and other metrics.
 
-### Tools Used:
+### Tools Used:-
 | Tableau | Excel | 
 |----------|---------|
 |<img src="https://cdn.simpleicons.org/tableau/#E97627" title=“Tableau” alt="Tableau" width="50" height="50"/> |<img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" title=“Excel” alt=“Excel” width="45" height="45"/> |
