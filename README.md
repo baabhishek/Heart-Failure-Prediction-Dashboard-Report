@@ -122,11 +122,16 @@ The data shows that individuals with diabetes have a lower survival rate compare
 - While diabetes impacts survival rates, its effect is moderate. Effective diabetes management is crucial, as it plays a role in influencing survival outcomes in heart failure patients.
 
 ### Strategic Considerations::
+
 - Targeted Interventions: Focus on managing anaemia, smoking, and high blood pressure to enhance survival rates.
 
 - Gender-Specific Strategies: Develop tailored treatment approaches based on gender differences in survival rates.
 
 - Age-Specific Considerations: Investigate and address the elevated risk among individuals aged 21-30 with targeted management strategies.
+  
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/72cbead0-e5d4-474b-90c7-9a5d8cf7bdf4" alt="Super">
+</p>
 
 - Smoking Cessation: Implement robust smoking cessation programs to improve outcomes in heart failure patients.
 
