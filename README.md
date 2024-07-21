@@ -82,35 +82,51 @@ Creatinine phosphokinase levels also play a role in survival-
 ##### High Blood Pressure and Survival::
 <img width="540" alt="Screenshot 2567-07-21 at 2 13 51 PM" src="https://github.com/user-attachments/assets/5c60fbe7-2de8-45e5-b374-de9f2f89b813">
 
-High blood pressure has a significant impact on survival-
-- Individuals with high blood pressure: 16.19% have died, while 25.71% survived.
-- Individuals without high blood pressure: 41.90% survived, with 16.19% having died.
-- Those without high blood pressure have a considerably higher survival rate, emphasizing the importance of managing blood pressure to improve heart failure outcomes.
+The analysis of survival rates in relation to high blood pressure shows the following distribution-
+
+###### Individuals with Positive High Blood Pressure:
+- Died: 13.04%
+- Survived: 22.07%
+###### Individuals with Negative High Blood Pressure:
+- Died: 19.06%
+- Survived: 45.82%
+The data reveals that individuals with high blood pressure have a lower survival rate compared to those without high blood pressure. Specifically, 13.04% of those with high blood pressure have died, while 22.07% have survived. In contrast, individuals without high blood pressure show a higher survival rate, with 19.06% having died and 45.82% surviving.
+
+This indicates that high blood pressure is associated with an increased risk of death among heart failure patients. The lower survival rate among those with high blood pressure underscores its critical role as a risk factor. Effective management of blood pressure is essential for improving survival outcomes in heart failure patients. This highlights the need for targeted interventions and monitoring of blood pressure to enhance overall patient survival.
 
 ##### Diabetes and Survival::
 <img width="468" alt="Screenshot 2567-07-21 at 2 14 53 PM" src="https://github.com/user-attachments/assets/5c35942a-fd6b-4825-936f-6980e91306df">
 
-Diabetes status affects survival as follows-
+###### Individuals with Positive Diabetes:
+- Died: 13.38%
+- Survived: 28.43%
+###### Individuals with Negative Diabetes:
+- Died: 18.73%
+- Survived: 39.46%
+The data shows that individuals with diabetes have a lower survival rate compared to those without diabetes. Specifically, 13.38% of those with diabetes have died, and 28.43% have survived. In contrast, individuals without diabetes have a higher survival rate, with 18.73% having died and 39.46% surviving.
 
-###### Positive Diabetes:
-- Died: 19.05%
-- Survived: 33.33%
+### Key Insights::
+<img width="1319" alt="Screenshot 2567-07-21 at 2 39 04 PM" src="https://github.com/user-attachments/assets/e75ff1e5-fc15-4187-a865-e9bc4a927aa7">
 
-###### Negative Diabetes:
-- Died: 13.33%
-- Survived: 34.29%
+- Individuals without anaemia have a significantly higher survival rate compared to those with anaemia. This suggests that anaemia worsens the condition of heart failure patients and negatively impacts their chances of survival.
+- Males generally exhibit a higher survival rate compared to females. This difference may stem from biological factors or disparities in treatment and disease progression.
+- The survival rate is notably higher among non-smokers than smokers. This indicates that smoking has a detrimental effect on heart health and survival, emphasizing the need for smoking cessation initiatives.
+- Younger individuals aged 21-30 show an unexpected elevated risk of death. This anomaly suggests the presence of additional underlying health issues or lifestyle factors that need further exploration.
+- Lower creatinine phosphokinase levels are associated with a reduced mortality rate. Elevated levels may indicate more severe heart conditions, contributing to higher mortality risks.
+- Individuals with high blood pressure have a lower survival rate compared to those without. This highlights high blood pressure as a significant risk factor for reduced survival in heart failure patients.
+- While diabetes impacts survival rates, its effect is moderate. Effective diabetes management is crucial, as it plays a role in influencing survival outcomes in heart failure patients.
 
-- Individuals with diabetes: 19.05% have died, and 33.33% survived.
-- Individuals without diabetes: 13.33% have died, with 34.29% surviving.
-- While diabetes does affect survival rates, the impact is relatively moderate compared to factors such as smoking and high blood pressure. Nonetheless, managing diabetes is crucial for improving overall survival in heart failure patients.
+### Strategic Considerations::
+- Targeted Interventions: Focus on managing anaemia, smoking, and high blood pressure to enhance survival rates.
 
-##### Key Insights::
-- The descriptive analysis highlights several factors that significantly influence survival in heart failure patients. 
-- Key factors include the presence of anaemia, smoking status, high blood pressure, and age. 
-- The higher survival rates among non-smokers, individuals without high blood pressure, and those without anaemia suggest that these are crucial areas for intervention. The unexpected risk associated with younger individuals and the role of creatinine phosphokinase levels further inform the need for targeted management strategies.
+- Gender-Specific Strategies: Develop tailored treatment approaches based on gender differences in survival rates.
 
-- High Risk Factors: The presence of anaemia, high blood pressure, and smoking are associated with lower survival rates.
-- Age: Younger individuals (21-30) show an elevated risk of death, which could be due to other underlying conditions.
-- Sex: Men generally have a higher survival rate compared to women.
+- Age-Specific Considerations: Investigate and address the elevated risk among individuals aged 21-30 with targeted management strategies.
+
+- Smoking Cessation: Implement robust smoking cessation programs to improve outcomes in heart failure patients.
+
+- Regular Monitoring: Continuously monitor and manage blood pressure and diabetes to improve survival and reduce mortality.
+
+- Further Research: Conduct additional research into the risks for younger individuals and the role of creatinine phosphokinase to refine treatment strategies.
 
 
