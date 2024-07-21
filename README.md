@@ -17,6 +17,11 @@ The dataset consists of health and demographic metrics for individuals with hear
 - Box Plot: To visualize the spread and outliers in numerical data.
 - Calculated Fields: Used to derive survival rates and other metrics.
 
+### Tools Used:
+| Tableau | Excel | 
+|----------|---------|
+|<img src="https://cdn.simpleicons.org/tableau/#E97627" title=“Tableau” alt="Tableau" width="50" height="50"/> |<img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" title=“Excel” alt=“Excel” width="45" height="45"/> |
+
 ### Analysis: 
 
 #### Overall Statistics:
